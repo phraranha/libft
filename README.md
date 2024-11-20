@@ -1,4 +1,3 @@
-```markdown
 # libft - A Custom C Library
 
 `libft.a` is a custom static library written in C. It provides a collection of commonly used functions to facilitate the development of various applications by mimicking functions from the standard C library, along with additional utilities.
